@@ -66,3 +66,9 @@ h1 {
 .survey-question {
     margin: 0px 0px 25px;
 }
+
+.footer, a {
+    margin: 40px 0 15px;
+    text-align: center;
+    color: white;
+}
